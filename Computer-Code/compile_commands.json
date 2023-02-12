@@ -1,0 +1,20 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "main.cpp"
+    ],
+    "directory": "/home/lasse/programming/cpp/DDR-button",
+    "file": "/home/lasse/programming/cpp/DDR-button/main.cpp"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "ControllerReader.cpp"
+    ],
+    "directory": "/home/lasse/programming/cpp/DDR-button",
+    "file": "/home/lasse/programming/cpp/DDR-button/ControllerReader.cpp"
+  }
+]
